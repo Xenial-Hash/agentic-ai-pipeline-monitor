@@ -1,0 +1,6 @@
+transaction_id,amount,status
+1,500.5,active
+2,450.0,active
+3,600.0,inactive
+4,700.0,active
+5,300.0,active

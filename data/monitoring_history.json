@@ -1,0 +1,13 @@
+{
+    "history": [
+        {
+            "timestamp": "2025-09-13T12:00:00Z",
+            "pipeline_name": "Pipeline1",
+            "metrics": {
+                "metric1": 100,
+                "metric2": 200
+            },
+            "anomalies": ["Anomaly1", "Anomaly2"]
+        }
+    ]
+}
